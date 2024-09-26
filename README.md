@@ -23,5 +23,6 @@ This repository implements a novel framework for **underwater acoustic target cl
 ## Results
 Our model demonstrates superior classification accuracy compared to traditional methods, particularly in low-SNR scenarios. Detailed performance metrics are provided for both ShipsEar and DeepShip datasets.
 
+## Contact
+For questions or issues, feel free to contact [najamuddin@graduate.utm.my].
 
-Make sure to replace placeholders such as `username`, `yourpaper2024`, `Journal Name`, and `najamuddin@graduate.utm.my` with the appropriate details before adding the file to your repository.
