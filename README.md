@@ -16,3 +16,12 @@ This repository implements a novel framework for **underwater acoustic target cl
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/underwater-acoustic-classification.git
+
+## Datasets
+- **ShipsEar Dataset:** Ship-radiated noise dataset.
+- **DeepShip Dataset:** Comprehensive dataset for underwater acoustic target classification.
+## Results
+Our model demonstrates superior classification accuracy compared to traditional methods, particularly in low-SNR scenarios. Detailed performance metrics are provided for both ShipsEar and DeepShip datasets.
+
+
+Make sure to replace placeholders such as `username`, `yourpaper2024`, `Journal Name`, and `najamuddin@graduate.utm.my` with the appropriate details before adding the file to your repository.
