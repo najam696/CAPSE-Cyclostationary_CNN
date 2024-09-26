@@ -16,6 +16,7 @@ This repository implements a novel framework for **underwater acoustic target cl
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/underwater-acoustic-classification.git
+   git clone  https://github.com/najam696/CAPSE-Cyclostationary_CNN/tree/main
 
 ## Datasets
 - **ShipsEar Dataset:** Ship-radiated noise dataset.
