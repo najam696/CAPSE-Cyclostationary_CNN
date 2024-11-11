@@ -1,9 +1,9 @@
 # CAPSE-Cyclostationary_CNN
 
-# Underwater Acoustic Target Classification using CAPSE and Cyclostationary Features with CNN
+# Marine vessels acoustic classification with enhanced machinery and propeller feature extraction, using convolutional neural network
 
 ## Overview
-This repository implements a novel framework for **underwater acoustic target classification** using **Coherently Averaged Power Spectrum Estimation (CAPSE)** and **Cyclostationary Feature Extraction** integrated with a **Convolutional Neural Network (CNN)**. The model efficiently handles ship-radiated noise, even in low signal-to-noise ratio (SNR) environments, providing robust classification performance.
+This repository implements a novel framework for **Marine vessels acoustic classification** using **Coherently Averaged Power Spectrum Estimation (CAPSE)** and **Cyclostationary Feature Extraction** integrated with a **Convolutional Neural Network (CNN)**. The model efficiently handles ship-radiated noise, even in low signal-to-noise ratio (SNR) environments, providing robust classification performance.
 
 ## Features
 - **CAPSE Feature Extraction**: Enhances the spectral clarity of noisy acoustic signals.
